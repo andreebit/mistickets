@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pase Libre</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_panel">Panel de usuario</string>
+    <string name="title_activity_orders">Mis compras</string>
+    <string name="title_activity_tickets">Códigos QR</string>
+</resources>
